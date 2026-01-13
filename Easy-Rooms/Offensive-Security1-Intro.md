@@ -15,3 +15,6 @@ Exploit the FakeBank application to find hidden functionality and transfer money
 ### 1. Scan the website for hidden directories
 ```bash
 gobuster -u http://fakebank.thm -w wordlist.txt dir
+
+
+![Gobuster](screenshots/gobuster.png)
